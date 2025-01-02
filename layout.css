@@ -1,8 +1,14 @@
+@font-face {
+    font-family: playwrite;
+    src: url(./PlaywriteAUSA-Regular.ttf);
+}
+
+
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family:  "Playwrite AU SA";
+    font-family: playwrite;
 }
 :root{
     --prcolor:white;
